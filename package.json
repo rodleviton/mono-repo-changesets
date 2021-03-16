@@ -1,0 +1,27 @@
+{
+  "name": "mono-repo-changesets",
+  "private": true,
+  "workspaces": [
+    "utils",
+    "components"
+  ],
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodleviton/mono-repo-changesets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodleviton/mono-repo-changesets/issues"
+  },
+  "homepage": "https://github.com/rodleviton/mono-repo-changesets#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.14.1"
+  }
+}
