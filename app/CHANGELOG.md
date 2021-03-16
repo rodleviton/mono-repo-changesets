@@ -1,5 +1,11 @@
 # app
 
+## 3.2.0
+
+### Minor Changes
+
+- ac2e4f8: Stuff
+
 ## 3.1.0
 
 ### Minor Changes
