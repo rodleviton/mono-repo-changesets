@@ -1,5 +1,11 @@
 # app
 
+## 3.1.0
+
+### Minor Changes
+
+- 9b0f869: Add hello world output
+
 ## 3.0.0
 
 ### Major Changes

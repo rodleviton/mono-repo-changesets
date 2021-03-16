@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rodleviton/mono-repo-changesets#readme",
   "dependencies": {
+    "@changesets/changelog-git": "^0.1.6",
     "@changesets/changelog-github": "^0.3.0",
     "@changesets/cli": "^2.14.1"
   }
