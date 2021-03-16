@@ -3,7 +3,7 @@ name: Utils deployment
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'tools/utils'
 
