@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'tools/utils'
+      - 'tools/utils/**'
 
 jobs:
   publish:
