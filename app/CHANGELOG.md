@@ -1,5 +1,16 @@
 # app
 
+## 2.2.0
+
+### Minor Changes
+
+- 200aec6: Sayu hello
+
+### Patch Changes
+
+- Updated dependencies [b49e1d1]
+  - components@1.4.0
+
 ## 2.1.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # components
 
+## 1.4.0
+
+### Minor Changes
+
+- b49e1d1: Add extra property to button
+
 ## 1.3.0
 
 ### Minor Changes
