@@ -1,5 +1,11 @@
 # components
 
+## 1.2.1
+
+### Patch Changes
+
+- 2b297aa: Add index file to button component
+
 ## 1.2.0
 
 ### Minor Changes
