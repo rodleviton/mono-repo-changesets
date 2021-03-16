@@ -2,6 +2,7 @@
   "name": "mono-repo-changesets",
   "private": true,
   "workspaces": [
+    "app",
     "tools/utils",
     "tools/components"
   ],
