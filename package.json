@@ -2,8 +2,8 @@
   "name": "mono-repo-changesets",
   "private": true,
   "workspaces": [
-    "utils",
-    "components"
+    "tools/utils",
+    "tools/components"
   ],
   "version": "1.0.0",
   "description": "",
