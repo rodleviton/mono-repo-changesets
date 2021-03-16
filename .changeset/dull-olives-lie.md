@@ -2,4 +2,4 @@
 "components": minor
 ---
 
-Add first component
+Add extra property to button

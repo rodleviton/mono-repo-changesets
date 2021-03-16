@@ -1,5 +1,11 @@
 # components
 
+## 1.3.0
+
+### Minor Changes
+
+- 01319c6: Add first component
+
 ## 1.2.1
 
 ### Patch Changes
