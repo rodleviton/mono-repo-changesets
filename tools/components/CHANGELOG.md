@@ -1,5 +1,11 @@
 # components
 
+## 1.5.0
+
+### Minor Changes
+
+- 565e75d: Update components as part of another feature
+
 ## 1.4.0
 
 ### Minor Changes

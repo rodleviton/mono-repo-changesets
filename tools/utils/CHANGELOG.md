@@ -1,5 +1,16 @@
 # utils
 
+## 1.3.0
+
+### Minor Changes
+
+- e22c8e2: Update utils as part of another feature
+
+### Patch Changes
+
+- Updated dependencies [e22c8e2]
+  - utils@1.3.0
+
 ## 1.2.0
 
 ### Minor Changes

@@ -1,5 +1,18 @@
 # app
 
+## 3.4.0
+
+### Minor Changes
+
+- e80130f: Some new and amazing feature
+
+### Patch Changes
+
+- Updated dependencies [565e75d]
+- Updated dependencies [e22c8e2]
+  - components@1.5.0
+  - utils@1.3.0
+
 ## 3.3.0
 
 ### Minor Changes
