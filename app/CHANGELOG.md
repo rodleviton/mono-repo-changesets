@@ -1,5 +1,11 @@
 # app
 
+## 3.3.0
+
+### Minor Changes
+
+- [`298035a`](https://github.com/rodleviton/mono-repo-changesets/commit/298035a728aa53be1b00309cc58867ef0245db2a) Thanks [@rodleviton](https://github.com/rodleviton)! - Blah
+
 ## 3.2.0
 
 ### Minor Changes
