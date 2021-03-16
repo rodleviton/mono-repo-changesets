@@ -1,5 +1,29 @@
 # components
 
+## 1.5.0
+
+### Minor Changes
+
+- 565e75d: Update components as part of another feature
+
+## 1.4.0
+
+### Minor Changes
+
+- b49e1d1: Add extra property to button
+
+## 1.3.0
+
+### Minor Changes
+
+- 01319c6: Add first component
+
+## 1.2.1
+
+### Patch Changes
+
+- 2b297aa: Add index file to button component
+
 ## 1.2.0
 
 ### Minor Changes

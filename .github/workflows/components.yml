@@ -1,0 +1,16 @@
+name: Components deployment
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'tools/components'
+
+jobs:
+  publish:
+    name: Publish Components
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo 'Components Published'

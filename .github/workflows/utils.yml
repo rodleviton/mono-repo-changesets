@@ -1,0 +1,16 @@
+name: Utils deployment
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'tools/utils'
+
+jobs:
+  publish:
+    name: Publish Utils
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo 'Utils Published'
