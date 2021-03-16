@@ -1,10 +1,16 @@
 # app
 
+## 3.0.0
+
+### Major Changes
+
+- 40eeb20: Change to npm instead of yarn
+
 ## 2.2.0
 
 ### Minor Changes
 
-- 200aec6: Sayu hello
+- Sayu hello [200aec6]
 
 ### Patch Changes
 
